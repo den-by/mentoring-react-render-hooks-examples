@@ -5,6 +5,7 @@ const App = () => {
   return (
     <>
       App
+      <DualCounter/>
       <Component0/>
       {/*<Component1/>*/}
     </>
